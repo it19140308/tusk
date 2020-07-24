@@ -5,5 +5,8 @@ welcome to food center!
 rice
 soup
 
+pizza
+burger
+
 
 thank you!
